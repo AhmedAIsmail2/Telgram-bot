@@ -1,0 +1,8 @@
+Flask==2.2.5
+requests==2.31.0
+google-api-python-client==2.83.0
+google-auth==2.22.0
+google-auth-httplib2==0.1.0
+pytz
+gunicorn
+python-telegram-bot==13.15
